@@ -41,3 +41,13 @@ body {
   content: "";
   width: 350px;
 }
+
+footer {
+  text-align: right;
+  padding: 20px;
+  font-size: 0.85rem;
+}
+
+a:visited {
+  color: purple;
+}
