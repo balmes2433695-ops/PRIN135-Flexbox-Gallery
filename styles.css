@@ -43,8 +43,10 @@ body {
 }
 
 footer {
+  max-width: 1400px;
+  margin: 0 auto;
   text-align: right;
-  padding: 20px;
+  padding: 20px 10px;
   font-size: 0.85rem;
 }
 
