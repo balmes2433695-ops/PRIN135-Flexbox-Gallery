@@ -43,8 +43,6 @@ body {
 }
 
 footer {
-  width: 100%;
-  box-sizing: border-box;
   text-align: right;
   padding: 20px;
   font-size: 0.85rem;
