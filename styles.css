@@ -42,11 +42,14 @@ body {
   width: 350px;
 }
 
-footer {
-  max-width: 1400px;
+.container {
+  max-width: 1110px;
   margin: 0 auto;
+}
+
+footer {
   text-align: right;
-  padding: 20px 10px;
+  padding: 10px 10px;
   font-size: 0.85rem;
 }
 
